@@ -1,7 +1,7 @@
 {
-    "name": "web_canonicals_ru",
+    "name": "qa-mesto-stand-front",
     "version": "0.1.0",
-    "homepage": "https://practicum-com.github.io/qa_mesto_frontend",
+    "homepage": "https://practicum-com.github.io/qa-mesto-frontend-build",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.4",
@@ -41,9 +41,5 @@
     },
     "devDependencies": {
         "gh-pages": "^4.0.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com:practicum-com/qa_mesto_frontend.git"
     }
 }
