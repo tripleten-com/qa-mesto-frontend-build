@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/qa-mesto-frontend-build/static/css/main.6fdb72b6.chunk.css",
+    "main.js": "/qa-mesto-frontend-build/static/js/main.4675333a.chunk.js",
+    "main.js.map": "/qa-mesto-frontend-build/static/js/main.4675333a.chunk.js.map",
+    "runtime-main.js": "/qa-mesto-frontend-build/static/js/runtime-main.1ea3a6d7.js",
+    "runtime-main.js.map": "/qa-mesto-frontend-build/static/js/runtime-main.1ea3a6d7.js.map",
+    "static/js/2.873c00b3.chunk.js": "/qa-mesto-frontend-build/static/js/2.873c00b3.chunk.js",
+    "static/js/2.873c00b3.chunk.js.map": "/qa-mesto-frontend-build/static/js/2.873c00b3.chunk.js.map",
+    "index.html": "/qa-mesto-frontend-build/index.html",
+    "static/css/main.6fdb72b6.chunk.css.map": "/qa-mesto-frontend-build/static/css/main.6fdb72b6.chunk.css.map",
+    "static/js/2.873c00b3.chunk.js.LICENSE.txt": "/qa-mesto-frontend-build/static/js/2.873c00b3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/qa-mesto-frontend-build/static/media/like-inactive.49570bcb.svg",
+    "static/media/error-icon.7204b460.svg": "/qa-mesto-frontend-build/static/media/error-icon.7204b460.svg",
+    "static/media/logo.fc3e6875.svg": "/qa-mesto-frontend-build/static/media/logo.fc3e6875.svg",
+    "static/media/success-icon.ae3d962f.svg": "/qa-mesto-frontend-build/static/media/success-icon.ae3d962f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ea3a6d7.js",
+    "static/js/2.873c00b3.chunk.js",
+    "static/css/main.6fdb72b6.chunk.css",
+    "static/js/main.4675333a.chunk.js"
+  ]
+}
